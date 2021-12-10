@@ -1,0 +1,26 @@
+{
+  "name": "express-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jbdiba/express-movie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jbdiba/express-movie/issues"
+  },
+  "homepage": "https://github.com/Jbdiba/express-movie#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.4.3",
+    "sequelize": "^6.12.0-beta.1",
+    "sqlite3": "^5.0.2"
+  }
+}
