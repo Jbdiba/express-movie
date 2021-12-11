@@ -16,6 +16,9 @@ Express-movie Relational Entity Diagram
 Tech Stack:
 
 Express
+
 Jest
+
 Sequelize
+
 Sqlite
