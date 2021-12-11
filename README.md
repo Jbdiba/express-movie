@@ -15,10 +15,10 @@ Express-movie Relational Entity Diagram
 
 Tech Stack:
 
-Express
+    Express
 
-Jest
+    Jest
 
-Sequelize
+    Sequelize
 
-Sqlite
+    Sqlite
