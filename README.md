@@ -3,9 +3,7 @@
 Express-movie Project Planning on Jira
 
 
-
-![Kanban Board (2)](https://user-images.githubusercontent.com/85546154/145602171-80faa509-8a81-4ade-9c17-4dff66c5f14d.png)
-
+![Kanban_Board](https://user-images.githubusercontent.com/85546154/145689358-9b9f7a6f-3be5-4166-93ec-b79a6a9ae501.png)
 
 
 Express-movie Relational Entity Diagram
