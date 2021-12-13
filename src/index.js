@@ -4,6 +4,7 @@ const { Movie } = require('../models/movie')
 const { Cast } = require('../models/Cast')
 const { Crew } = require('../models/Crew')
 
+
 Cast.belongsTo(Movie)
 Movie.hasMany(Cast)
 
