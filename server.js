@@ -62,7 +62,7 @@ app.get('/search', async (req,res) => {
 //     res.send(newCrew ? 'Crew created': 'post failed')
 // })
 
-// //update one musician by id
+// //update one crew by id
 // app.put('/crew/:id', async (req,res) => {
 //     let updatedCrew = await Crew.update(req.body, {
 //         where: {id: req.params.id}
